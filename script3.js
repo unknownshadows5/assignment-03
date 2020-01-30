@@ -10,27 +10,10 @@
 // # # # #
 //  # # # #
 
-let j = 1
-
-while (j <= 2);
-{
-if ( j = 1)
-{
-    console.log(
-    # # # # # # #
-    );
+for (let j = 1; j <= 8; j++) {
+  if (j % 2 == 0) {
+    console.log("# # # # ");
+  } else {
+    console.log(" # # # #");
+  }
 }
- else ( j =2)
- {
-     console.log(
-# # # # # # #
-     );
-j++;
- }
-
-
-
-
-}
-
-
