@@ -13,7 +13,24 @@
 let j = 1
 
 while (j <= 2);
+{
+if ( j = 1)
+{
+    console.log(
+    # # # # # # #
+    );
+}
+ else ( j =2)
+ {
+     console.log(
+# # # # # # #
+     );
+j++;
+ }
 
-if
+
+
+
+}
 
 
